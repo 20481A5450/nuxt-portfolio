@@ -19,10 +19,8 @@
     <div class="blog py-5" id="services">
         <div class="container py-lg-5">
             <h5 class="title-small text-center">Projects list</h5>
-            <h3 class="title-big text-center mb-sm-5 mb-4">I have done lots of project for my client.</h3>
+            <h3 class="title-big text-center mb-sm-5 mb-4">I have done lot of projects in my college time.</h3>
             <div class="row">
-                
-                    
                     <div class="col-md-4 col-sm-12 col-xs-12" v-for="project in data.portfolio.projects" v-bind:key="project">
                         <div class="item">
                             <div class="card">
@@ -39,8 +37,6 @@
                             </div>
                         </div>
                     </div>
-                    
-
             </div>
             <div class="mt-5 text-more">
                 <p class="mt-4 pt-3 sample text-center">

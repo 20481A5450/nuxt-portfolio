@@ -105,21 +105,21 @@
     "portfolio": {
         "projects": [{
                 "no":"01",
-                "title": "RMS with AR",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+                "title": "College Fest Webpage",
+                "description": "A college fest webpage designed for a competition which consists of lists of the events that are heppening in the college reminders and registrations etc.",
+                "url": "https://20481a5450.github.io/CollegeFestPage/"
             },
             {
                 "no":"02",
-                "title": "Prothom alo clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+                "title": "Personal Bookshelf",
+                "description": "A personal bookshelf application developed using ReactJs and Open Library API as part of an assignment which covers the basics of ReactJs. and Open Library API.",
+                "url": "https://20481a5450.github.io/personal-bookshelf/#/"
             },
             {
                 "no":"03",
-                "title": "Chaldal Clone",
-                "description": "Lorem ipsum dolor sit amet sed consectetur adipisicing elit. doloret quas saepe autem, dolor set.",
-                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+                "title": "Expense Tracker",
+                "description": "An Expense tracker using Streamlit with Firebase connected to it encorporated features-Monthly expenses and deployed in the Streamlit Community Cloud",
+                "url": "https://expense-tracker-zo.streamlit.app/"
             }
         ]
     },
