@@ -120,19 +120,37 @@
                 "title": "Expense Tracker",
                 "description": "An Expense tracker using Streamlit with Firebase connected to it encorporated features-Monthly expenses and deployed in the Streamlit Community Cloud",
                 "url": "https://expense-tracker-zo.streamlit.app/"
+            },
+            {
+                "no":"04",
+                "title": "Water Qality App",
+                "description": "An application to check the quality of water using Flask and HTML and CSS This project aims to develop a machine learning application for water quality analysis.",
+                "url": "https://github.com/20481A5450/WaterQuality-MLApp"
+            },
+            {
+                "no":"05",
+                "title": "E- Commerce Website",
+                "description": "The project is a dynamic e-commerce website developed using React. It features a UI with a homepage displaying various product categories along images",
+                "url": "https://readme-xkss.onrender.com/"
+            },
+            {
+                "no":"06",
+                "title": "Chat_With_LLM-s",
+                "description": "This Project integrates Streamlit with locally installed LLMs, facilitating active interaction with them which was designed using Streamlit..",
+                "url": "https://github.com/20481A5450/Chat_With_LLM-s"
             }
         ]
     },
     "testimonials": {
         "testimonials": [{
-                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "John wilson",
-                "clientaddress": "Seattle, Washington"
+                "text": "",
+                "clientname": "Akhil Kumar",
+                "clientaddress": "Hyderabad, India"
             },
             {
                 "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "David haris",
-                "clientaddress": "London, England"
+                "clientname": "",
+                "clientaddress": "Hyderabad, India"
             }
         ]
     },
